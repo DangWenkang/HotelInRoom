@@ -21,4 +21,9 @@
     <string name="main_course">Main Course</string>
     <string name="snack">Snack</string>
     <string name="drink">Drink</string>
+    <string name="extra_towel">Extra Towel</string>
+    <string name="laundry_pick_up">Laundry Pick Up</string>
+    <string name="refill_minibar">Refill MiniBar</string>
+    <string name="submit">Submit</string>
+    <string name="general_cleaning">General Cleaning</string>
 </resources>
