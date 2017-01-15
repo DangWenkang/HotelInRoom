@@ -13,4 +13,12 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
+    <string name="starter">Starter</string>
+    <string name="in_room_dinning_menu">In-Room Dinning Menu</string>
+    <string name="schedule_for_cleaning">Schedule For Cleaning</string>
+    <string name="other_service">Other Service</string>
+    <string name="second">Second</string>
+    <string name="main_course">Main Course</string>
+    <string name="snack">Snack</string>
+    <string name="drink">Drink</string>
 </resources>

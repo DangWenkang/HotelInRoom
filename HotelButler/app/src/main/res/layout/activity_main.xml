@@ -9,6 +9,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="edu.rose_hulman.tongy.hotelbutler.MainActivity"
     >
 
     <ImageView
@@ -22,7 +23,7 @@
         android:layout_alignParentStart="true" />
 
     <Button
-        android:text="In-Room Dinning Menu"
+        android:text="@string/in_room_dinning_menu"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="82dp"
@@ -31,7 +32,7 @@
         android:layout_centerHorizontal="true" />
 
     <Button
-        android:text="Schedule For Cleaning"
+        android:text="@string/schedule_for_cleaning"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/button_schedule_clean"
@@ -40,7 +41,7 @@
         android:layout_centerHorizontal="true" />
 
     <Button
-        android:text="Other Service"
+        android:text="@string/other_service"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="32dp"
